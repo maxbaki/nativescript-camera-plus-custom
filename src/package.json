@@ -1,5 +1,5 @@
 {
-  "name": "@nstudio/nativescript-camera-plus",
+  "name": "maxbaki/nativescript-camera-plus",
   "version": "1.0.6",
   "description": "An advanced, embeddable camera for NativeScript.",
   "main": "camera-plus",
